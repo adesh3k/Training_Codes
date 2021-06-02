@@ -1,3 +1,5 @@
+#This file expects a number of maximum 19 digits
+#To run this file put numbers.json file in same directory where this file resides.
 import json,pprint
 
 def converter(num):
